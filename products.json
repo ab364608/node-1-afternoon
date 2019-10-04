@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "product_name": "DM Beanie",
+    "product_name": "DMBeanie",
     "price": 7.03,
     "img_url": "https://assets.bigcartel.com/product_images/225130150/IMG_6561.JPG"
   },
   {
     "id": 2,
-    "product_name": "DM Hat",
+    "product_name": "DMHat",
     "price": 6.72,
     "img_url": "https://assets.bigcartel.com/product_images/212438563/IMG_1263.JPG"
   },
